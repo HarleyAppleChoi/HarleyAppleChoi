@@ -1,7 +1,7 @@
-### Hi there I am Harley/Apple/HauYi👋
+### Hi there I am Apple👋
 
 
-I am still a college student. Activly learning everything😝
+Activly learning everything😝
 
 - 🔭 I’m currently working on backend database for blockchain network.
 - 🌱 I’m currently learning Go, blockchian and machine learning algorithm.
